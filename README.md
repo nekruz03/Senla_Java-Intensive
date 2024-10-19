@@ -1,1 +1,1 @@
-# Senla_Java-Intensive
+# Назирджонов Некруз 

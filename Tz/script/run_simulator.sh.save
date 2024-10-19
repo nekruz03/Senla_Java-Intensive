@@ -1,0 +1,4 @@
+
+cd /Users/nekruz/Documents/Senla/Tz/src
+javac *.java
+java EcosystemSimulator

@@ -1,0 +1,6 @@
+Plant,Grass,15,0.2
+Plant,Shrub,9,0.15
+Herbivore,Rabbit,171,0.1
+Carnivore,Fox,5,0.1
+Water,0.0
+Light,0.0
